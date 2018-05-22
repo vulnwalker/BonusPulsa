@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainLayout"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+
+    tools:context="codes.vulnwalker.bonuspulsa.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+
+    <!--<fragment-->
+        <!--android:id="@+id/baseAboutUsFragment"-->
+        <!--android:name="codes.vulnwalker.bonuspulsa.fragment.aboutUsFragment"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+    <!--<fragment-->
+        <!--android:id="@+id/baseTukarPointFragment"-->
+        <!--android:nacodes.vulnwalker.bonuspulsa.fragment.tukar_point.tukarPointFragmentment"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:layout_centerInParent="true" />
+    <ScrollView
+        android:id="@+id/parentMainMenu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/playVideoAds"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="TONTON VIDEO"
+                    android:theme="@style/Theme.AppCompat.NoActionBar"
+                    />
+                <Button
+                    android:id="@+id/playVideoAds2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="TONTON VIDEO 2"
+                    android:theme="@style/Theme.AppCompat.NoActionBar"
+                    />
+                <Button
+                    android:id="@+id/playVideoAds3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="TONTON VIDEO 3"
+                    android:theme="@style/Theme.AppCompat.NoActionBar"
+                    />
+                <Button
+                    android:id="@+id/clickAds"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/playVideoAds3"
+                    android:layout_centerHorizontal="true"
+                    android:text="BONUS IKLAN"
+                    android:theme="@style/Theme.AppCompat.NoActionBar"
+                    />
+                <Button
+                    android:id="@+id/absen"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/playVideoAds"
+                    android:layout_centerHorizontal="true"
+                    android:text="ABSEN HARIAN"
+                    android:theme="@style/Theme.AppCompat.NoActionBar"
+                    />
+                <!--<com.google.android.gms.ads.NativeExpressAdView-->
+                    <!--android:id="@+id/adView2"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--ads:adUnitId="ca-app-pub-3417587124775040/3051829826"-->
+                    <!--ads:adSize="320x150" >-->
+                <!--</com.google.android.gms.ads.NativeExpressAdView>-->
+                <!--<com.google.android.gms.ads.AdView-->
+                    <!--android:id="@+id/adview"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_alignParentBottom="true"-->
+                    <!--android:layout_centerHorizontal="true"-->
+                    <!--ads:adSize="SMART_BANNER"-->
+                    <!--ads:adUnitId="ca-app-pub-3417587124775040/2975808204" />-->
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+
+
+</android.support.constraint.ConstraintLayout>

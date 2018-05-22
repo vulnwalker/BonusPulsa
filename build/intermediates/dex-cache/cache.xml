@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/2f4b38f51d69f578310604b53b9c4890/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/2f4b38f51d69f578310604b53b9c4890/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/82e1362a4eae0cc87e884a1c2fbe6a4f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.0.0.aar/6343c476c711085a2eef4597a8ea1a46/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/0329ae1912c2b7a5ded2e9efea8083ff/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/c21a305d4f5fe015b86a0762b18db8f5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/a70c12a88f11c70ae961a97bd2293a77/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/12be2b22bfc52a6f38ea83ae0069f6d1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/12be2b22bfc52a6f38ea83ae0069f6d1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3-2/3fe54c7558c903868351ac79b792d152bca958f2/kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/a70c12a88f11c70ae961a97bd2293a77/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/ec7087ec1f3428d26dc7186f86023d8b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/0f00d12c90d251a9d8afa4f93dcf51f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a90606ee73178bb9b1a336dc36ae3ec25ad33ea">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/51aa7cc49076639d6626e88cc5fddfa8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.0.0.aar/6343c476c711085a2eef4597a8ea1a46/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/fbe71bab02eb2458abaaeda3e3216e94/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kszxpo/AS/android-studio/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kszxpo/AS/android-studio/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kszxpo/AS/android-studio/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/51aa7cc49076639d6626e88cc5fddfa8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7e64215940603a0b58b4d6266ac1767f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/8a6cbb9f31e778e68391e1b74e45ba43/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/8a6cbb9f31e778e68391e1b74e45ba43/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7e64215940603a0b58b4d6266ac1767f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/1400179db9029091e8f1bdde93140d91/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/1400179db9029091e8f1bdde93140d91/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/4b56b8c7151d4ecb3f023eee26d5d938/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/3c468b69b5ea69ba19799cfa720f2e7f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.0/3de0694cacc8fb6f118091c7ae1ec6540047ed0d/anko-commons-0.10.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3de0694cacc8fb6f118091c7ae1ec6540047ed0d">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3-2/3fe54c7558c903868351ac79b792d152bca958f2/kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/3c468b69b5ea69ba19799cfa720f2e7f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/5fbfbcc2ace1d78ad0d706525066ebae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/5fbfbcc2ace1d78ad0d706525066ebae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/55a108955220fa17e1ebc519bb2adc80/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.2.aar/fc2545c6039023ef343ccd947a586bf7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.2.aar/241da024627c252aa0fd56061843b5bc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/55a108955220fa17e1ebc519bb2adc80/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.2.aar/241da024627c252aa0fd56061843b5bc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/fa2bf364f510bf5760092f257587c34e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.2.aar/624c4bf044ed057aa2880804081e2555/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.2.aar/fc2545c6039023ef343ccd947a586bf7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.2.aar/3b019752c0f170a9b3be9be7e4c8aa6f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.2.aar/9c6baed5e591410d6596477d6a1862b1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.2.aar/9c6baed5e591410d6596477d6a1862b1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/kotlinpermissions-1.1.aar/8b02f931186dcdd3cd5b20c403c5fe35/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38db17e19a150ea3d1d61c92150e4db1ee5365d9">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/486540513da3ab1318464ac0ab114cd3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kszxpo/AS/android-studio/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.3-2/kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/486540513da3ab1318464ac0ab114cd3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kszxpo/AS/android-studio/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.3-2/kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/73d5808f9570c6a245d4886264c84c42/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kszxpo/AS/android-studio/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.3-2/kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/27c2c36c33430e3f0465ac6de04ce8ba/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sqlite/0.10.0/874e9f699618a33baf77bc2a9541448e8fcc1e3b/anko-sqlite-0.10.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874e9f699618a33baf77bc2a9541448e8fcc1e3b">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/dcc1fb8d46ff227055a0ed6f280b1ccb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/8bae4a90e979ef2527f6bc36d5f12323/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/96ee13cbf0ff55bb69e90f07a6e278d6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/018b9d4403ef6edd038dca94630394fd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/3cd5a6653cc88494bee98f304cdfa9d4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/2bb8128a9374353caf0a7edbdb88627e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/3cd5a6653cc88494bee98f304cdfa9d4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/2bb8128a9374353caf0a7edbdb88627e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.0/3de0694cacc8fb6f118091c7ae1ec6540047ed0d/anko-commons-0.10.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3de0694cacc8fb6f118091c7ae1ec6540047ed0d">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3-2/3fe54c7558c903868351ac79b792d152bca958f2/kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.0/3de0694cacc8fb6f118091c7ae1ec6540047ed0d/anko-commons-0.10.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3de0694cacc8fb6f118091c7ae1ec6540047ed0d">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/a069ba9ef4e2a512eb28019b42873d10/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/a069ba9ef4e2a512eb28019b42873d10/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/92ba8e110494c0f0d03caf9ab22ab1de/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/bc81a9c22f5c6c52f44b78078e40f928/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/39c525fa3305974f42d86449c9292fbc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.2.aar/39c525fa3305974f42d86449c9292fbc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/1dcddd1a06d99cb40728ef8157d6a0e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.2.aar/92ba8e110494c0f0d03caf9ab22ab1de/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/fe7c3e9091200d84db9227b6b2335533/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/fe7c3e9091200d84db9227b6b2335533/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/b9fdcce3225bed86a2a08150bc724d5a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/b9fdcce3225bed86a2a08150bc724d5a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.0.0.aar/3fe755935d5ae79faab98d8fad293136/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/3e0b3a20cb6b2a168b636fabb54e06a0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.2.aar/843e147632ba66a51835371d5091bab8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.2.aar/0071f4d58114c6659a1605d154e1d906/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.2.aar/22ab6953e99cc82311bbc4a364669e31/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/c6c2e873ae4dd924921e3de1adbfd1ff/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/36094a385c1b288db27f3a7b61ab5bb5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/36094a385c1b288db27f3a7b61ab5bb5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/c6c2e873ae4dd924921e3de1adbfd1ff/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/9a98d079310f14715752711d73d2f7c9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/dc978a054c5e5437b0c136d1f8eec347/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/01c086ec4adf2b84567791422af26e88/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/9a98d079310f14715752711d73d2f7c9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.2.aar/dc978a054c5e5437b0c136d1f8eec347/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/714b5a2869f28b899ba2809119a3c120/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a90606ee73178bb9b1a336dc36ae3ec25ad33ea">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/recyclerview-multiselect-0.2.aar/714b5a2869f28b899ba2809119a3c120/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a90606ee73178bb9b1a336dc36ae3ec25ad33ea">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.2.aar/f03f04cdeec62b0b166bbc03de04aa83/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sqlite/0.10.0/874e9f699618a33baf77bc2a9541448e8fcc1e3b/anko-sqlite-0.10.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="874e9f699618a33baf77bc2a9541448e8fcc1e3b">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sqlite/0.10.0/874e9f699618a33baf77bc2a9541448e8fcc1e3b/anko-sqlite-0.10.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="874e9f699618a33baf77bc2a9541448e8fcc1e3b">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.2.aar/5ef95ac50f697f81550f3d1c3ff654e6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.2.aar/5ef95ac50f697f81550f3d1c3ff654e6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/e219bf284e49598e454a12b5776b3458/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/e219bf284e49598e454a12b5776b3458/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/a39353fd7057e8e4519340f39b9fbb78/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/2ef0cbef643d9e0d13c70c65913d4c33/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.2.aar/a63db5477e847a37ccd0685a813221ee/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/cb74e3a2b963d6d3882632e04babf439/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="/home/kszxpo/AndroidStudioProjects/BonusPulsa/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+
+</items>

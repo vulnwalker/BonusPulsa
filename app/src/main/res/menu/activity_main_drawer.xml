@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mainMenu"
+            android:icon="@mipmap/main_menu_icon"
+            android:title="Main Menu" />
+        <item
+            android:id="@+id/tukarPoint"
+            android:icon="@mipmap/tukar_point_icon"
+            android:title="Tukar Point" />
+        <item
+            android:id="@+id/historiTukar"
+            android:icon="@mipmap/histori_tukar_point_icon"
+            android:title="Histori Tukar Point" />
+        <item
+            android:id="@+id/sync"
+            android:icon="@mipmap/syncicon"
+            android:title="Sync" />
+
+
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share" />
+    </group>
+
+
+    <item android:title="Info">
+        <menu>
+            <item
+                android:id="@+id/aboutUs"
+                android:icon="@mipmap/about_us_icon"
+                android:title="Tentang Kami" />
+            <item
+                android:id="@+id/bantuan"
+                android:icon="@mipmap/bantuan_icon"
+                android:title="Bantuan" />
+        </menu>
+    </item>
+
+</menu>

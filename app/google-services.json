@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "234301284916",
+    "firebase_url": "https://bonuspulsa-4aaf1.firebaseio.com",
+    "project_id": "bonuspulsa-4aaf1",
+    "storage_bucket": "bonuspulsa-4aaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234301284916:android:5f6a31da43b60fc6",
+        "android_client_info": {
+          "package_name": "codes.vulnwalker.bonuspulsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234301284916-8k2bhn7mnvustguhn8oip7v83uj6jl5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codes.vulnwalker.bonuspulsa",
+            "certificate_hash": "5b6e63a5ec849fad03462d9e041157210bb5464b"
+          }
+        },
+        {
+          "client_id": "234301284916-fg0amtpqo5mofolslbne99c5bauugthm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7V2eO_GqW-HTJSSlr6JdYhIyJU5L-sU"
+        },
+        {
+          "current_key": "AIzaSyB18vM-AAFlqyQatAcuoxFz23oKExuBge8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234301284916-fg0amtpqo5mofolslbne99c5bauugthm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
