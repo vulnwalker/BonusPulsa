@@ -39,7 +39,7 @@ class register : AppCompatActivity() {
 
         buttonRegister.setOnClickListener {
             val queue = Volley.newRequestQueue(this@register)
-            val response: String? = null
+//            val response: String? = null
             val postRequest = object : StringRequest(Request.Method.POST, URL.REGISTER,Response.Listener<String>{
                 response ->
                 val resp = JSONObject(response)
@@ -50,13 +50,9 @@ class register : AppCompatActivity() {
                     toast(cek)
                     pageLogin()
                 }else{
-
-                    val tMgr = this.getSystemService(Context.TELEPHONY_SERVICE) as TelephonyManager
-                    val mPhoneNumber = tMgr.line1Number
-
-
-                    toast(mPhoneNumber)
+                    toast(err.toString())
                 }
+//                toast(response.toString())
 
             },
                     Response.ErrorListener {
