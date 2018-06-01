@@ -119,11 +119,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             absenHarian()
         }
 
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            mainLayout.setBackgroundResource(R.drawable.bg)
-        }else{
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+//            mainLayout.setBackgroundResource(R.drawable.bg)
+//        }else{
             mainLayout.setBackgroundColor(Color.DKGRAY)
-        }
+//        }
 
 
 
@@ -193,6 +193,24 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         clickAds.setOnClickListener{
             if(!operatorName.toString().equals("Android")){
                 requestKlik()
+            }else{
+                val pesanResponse = DialogInterface.OnClickListener { dialog, which ->
+                    when (which) {
+                        DialogInterface.BUTTON_POSITIVE -> {
+                        }
+                        DialogInterface.BUTTON_NEGATIVE -> {
+                        }
+                    }
+                }
+                val errNotice = AlertDialog.Builder(this)
+                errNotice.setMessage("IMEI TIDAK VALID !").setPositiveButton("Tutup", pesanResponse)
+                        .setNegativeButton("", pesanResponse).show()
+            }
+
+        }
+        clickAds2.setOnClickListener{
+            if(!operatorName.toString().equals("Android")){
+                requestKlik2()
             }else{
                 val pesanResponse = DialogInterface.OnClickListener { dialog, which ->
                     when (which) {
@@ -280,6 +298,50 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             override fun onAdClosed() {
                 if(iklanTerklik == 1){
                     getReward("BONUS IKLAN")
+                }else{
+                    toast("Iklan belum di klik point tidak bertambah")
+                }
+                super.onAdClosed()
+                parentMainMenu.visibility = View.VISIBLE
+                spinner.setVisibility(View.GONE);
+            }
+
+
+        }
+
+    }
+
+    fun popupRequestBonusIklan2(){
+        var iklanTerklik :Int  = 0
+        mInterstitialAd = InterstitialAd(this)
+        mInterstitialAd.adUnitId = "ca-app-pub-3417587124775040/7076251925"
+        mInterstitialAd.loadAd(AdRequest.Builder()
+                .build())
+
+
+        mInterstitialAd.adListener = object : AdListener() {
+            override fun onAdLoaded() {
+                postRequestAds("BONUS IKLAN 2")
+                mInterstitialAd.show()
+                iklanTerklik = 0
+            }
+
+            override fun onAdFailedToLoad(p0: Int) {
+                mInterstitialAd.loadAd(AdRequest.Builder()
+                        .build())
+            }
+
+            override fun onAdLeftApplication() {
+                super.onAdLeftApplication()
+                iklanTerklik = 1
+
+
+
+            }
+
+            override fun onAdClosed() {
+                if(iklanTerklik == 1){
+                    getReward("BONUS IKLAN 2")
                 }else{
                     toast("Iklan belum di klik point tidak bertambah")
                 }
@@ -498,6 +560,57 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 val params = HashMap<String, String>()
                 params.put("email", publicEmail)
                 params.put("jenis_iklan", "BONUS IKLAN")
+                params.put("versiAPK", apkVersion)
+                return params
+            }
+        }
+        postRequest.retryPolicy = DefaultRetryPolicy(0, DefaultRetryPolicy.DEFAULT_MAX_RETRIES, DefaultRetryPolicy.DEFAULT_BACKOFF_MULT)
+        queue.add(postRequest)
+
+
+
+
+
+    }
+
+    fun requestKlik2(){
+        val queue = Volley.newRequestQueue(this@MainActivity)
+        val response: String? = null
+        var currentSaldo: String? = null
+        val postRequest = object : StringRequest(Method.POST, URL.CEK_IKLAN, Response.Listener<String>{
+            response ->
+            val resp = JSONObject(response)
+            val err = resp.getString("err")
+
+            if(err.toString().equals("")){
+                popupRequestBonusIklan2()
+                parentMainMenu.visibility = View.GONE
+                spinner.setVisibility(View.VISIBLE)
+            }else{
+                val pesanResponse = DialogInterface.OnClickListener { dialog, which ->
+                    when (which) {
+                        DialogInterface.BUTTON_POSITIVE -> {
+                        }
+                        DialogInterface.BUTTON_NEGATIVE -> {
+                        }
+                    }
+                }
+                val builder = AlertDialog.Builder(this)
+                builder.setMessage(err.toString()).setPositiveButton("Tutup", pesanResponse)
+                        .setNegativeButton("", pesanResponse).show()
+
+
+            }
+
+        },
+                Response.ErrorListener {
+                    toast("error")
+                }
+        ) {
+            override fun getParams(): Map<String, String> {
+                val params = HashMap<String, String>()
+                params.put("email", publicEmail)
+                params.put("jenis_iklan", "BONUS IKLAN 2")
                 params.put("versiAPK", apkVersion)
                 return params
             }

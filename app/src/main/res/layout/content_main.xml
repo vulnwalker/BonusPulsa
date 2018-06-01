@@ -13,16 +13,6 @@
     tools:showIn="@layout/app_bar_main">
 
 
-    <!--<fragment-->
-        <!--android:id="@+id/baseAboutUsFragment"-->
-        <!--android:name="codes.vulnwalker.bonuspulsa.fragment.aboutUsFragment"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="match_parent" />-->
-    <!--<fragment-->
-        <!--android:id="@+id/baseTukarPointFragment"-->
-        <!--android:nacodes.vulnwalker.bonuspulsa.fragment.tukar_point.tukarPointFragmentment"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="match_parent" />-->
     <ProgressBar
         android:id="@+id/progressBar1"
         style="?android:attr/progressBarStyleLarge"
@@ -36,12 +26,10 @@
         android:id="@+id/parentMainMenu"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-
-
+            android:layout_height="match_parent">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -49,66 +37,86 @@
 
                 <Button
                     android:id="@+id/playVideoAds"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_width="289dp"
+                    android:layout_height="match_parent"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/rounded"
                     android:text="TONTON VIDEO"
-                    android:theme="@style/Theme.AppCompat.NoActionBar"
-                    />
+                    android:theme="@style/Theme.AppCompat.NoActionBar" />
                 <Button
                     android:id="@+id/playVideoAds2"
-                    android:layout_width="match_parent"
+                    android:layout_width="289dp"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
                     android:text="TONTON VIDEO 2"
                     android:theme="@style/Theme.AppCompat.NoActionBar"
+                    android:background="@drawable/rounded"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center_vertical|center_horizontal"
+
+
+
                     />
                 <Button
                     android:id="@+id/playVideoAds3"
-                    android:layout_width="match_parent"
+                    android:layout_width="289dp"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
                     android:text="TONTON VIDEO 3"
                     android:theme="@style/Theme.AppCompat.NoActionBar"
+                    android:background="@drawable/rounded"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center_vertical|center_horizontal"
+
+
                     />
                 <Button
                     android:id="@+id/clickAds"
-                    android:layout_width="match_parent"
+                    android:layout_width="289dp"
                     android:layout_height="wrap_content"
                     android:layout_below="@id/playVideoAds3"
                     android:layout_centerHorizontal="true"
                     android:text="BONUS IKLAN"
                     android:theme="@style/Theme.AppCompat.NoActionBar"
+                    android:background="@drawable/rounded"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center_vertical|center_horizontal"
+
+
+                    />
+                <Button
+                    android:id="@+id/clickAds2"
+                    android:layout_width="289dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/playVideoAds3"
+                    android:layout_centerHorizontal="true"
+                    android:text="BONUS IKLAN 2"
+                    android:theme="@style/Theme.AppCompat.NoActionBar"
+                    android:background="@drawable/rounded"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center_vertical|center_horizontal"
+
+
                     />
                 <Button
                     android:id="@+id/absen"
-                    android:layout_width="match_parent"
+                    android:layout_width="289dp"
                     android:layout_height="wrap_content"
                     android:layout_below="@id/playVideoAds"
                     android:layout_centerHorizontal="true"
                     android:text="ABSEN HARIAN"
                     android:theme="@style/Theme.AppCompat.NoActionBar"
+                    android:background="@drawable/rounded"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center_vertical|center_horizontal"
+
+
                     />
-                <!--<com.google.android.gms.ads.NativeExpressAdView-->
-                    <!--android:id="@+id/adView2"-->
-                    <!--android:layout_width="match_parent"-->
-                    <!--android:layout_height="wrap_content"-->
-                    <!--ads:adUnitId="ca-app-pub-3417587124775040/3051829826"-->
-                    <!--ads:adSize="320x150" >-->
-                <!--</com.google.android.gms.ads.NativeExpressAdView>-->
-                <!--<com.google.android.gms.ads.AdView-->
-                    <!--android:id="@+id/adview"-->
-                    <!--android:layout_width="match_parent"-->
-                    <!--android:layout_height="wrap_content"-->
-                    <!--android:layout_alignParentBottom="true"-->
-                    <!--android:layout_centerHorizontal="true"-->
-                    <!--ads:adSize="SMART_BANNER"-->
-                    <!--ads:adUnitId="ca-app-pub-3417587124775040/2975808204" />-->
-
-
             </LinearLayout>
 
         </RelativeLayout>
